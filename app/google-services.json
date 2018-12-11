@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "722547855160",
+    "firebase_url": "https://coleta-de-lixo-292e3.firebaseio.com",
+    "project_id": "coleta-de-lixo-292e3",
+    "storage_bucket": "coleta-de-lixo-292e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722547855160:android:6bae9c1af7d67871",
+        "android_client_info": {
+          "package_name": "com.example.jorgesaba.coletordelixo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722547855160-tck0noovmehein9ortbomnr9a34h50p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPObPWSY9Yi-EqAEWAy4Y6jvu8pfkPFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722547855160:android:079b4a33dd792f09",
+        "android_client_info": {
+          "package_name": "com.example.jorgesaba.coletronix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722547855160-tck0noovmehein9ortbomnr9a34h50p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPObPWSY9Yi-EqAEWAy4Y6jvu8pfkPFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
